@@ -18,7 +18,7 @@
     "mongoose": "^5.7.10",
     "routers": "^0.1.4",
     "swagger-jsdoc": "^3.4.0",
-    "swagger-ui": "^3.24.3",
+    "swagger-ui": "^4.1.3",
     "swagger-ui-express": "^4.1.2"
   }
 }
